@@ -1,5 +1,5 @@
 # git101
-#znznznzn     hihihi
+#znznznzn good!hihihi
 101
 
 Here is git learn proj.
